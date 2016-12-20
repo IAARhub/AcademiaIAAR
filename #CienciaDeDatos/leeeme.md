@@ -6,3 +6,4 @@ http://www.sceu.frba.utn.edu.ar/e-learning/cursos-a-distancia/Informatica-y-Sist
 
 Ingles
 https://www.coursera.org/specializations/jhu-data-science
+https://www.coursera.org/specializations/machine-learning
