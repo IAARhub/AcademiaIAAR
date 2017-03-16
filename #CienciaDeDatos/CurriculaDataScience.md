@@ -77,7 +77,7 @@
             * Error Cuadrado Medio
             * R cuadrado (R2-Score)
             * Explained Variance Score  
-    *Clasificación
+    * Clasificación
         * Árboles de decisión
             * Entropía
             * Ganancia de información
